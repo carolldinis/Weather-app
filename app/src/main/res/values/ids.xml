@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="Monday" type="id" />
+    <item name="tempTuesday" type="id" />
+    <item name="tempWednesday" type="id" />
+    <item name="tempThursday" type="id" />
+    <item name="tempFriday" type="id" />
+    <item name="tempSaturday" type="id" />
+    <item name="tempSunday" type="id" />
+    <item name="averageTextView" type="id" />
+    <item name="detailedInfoLayout" type="id" />
+</resources>
